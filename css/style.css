@@ -48,7 +48,7 @@ input:focus {
 }
 
 input:focus + span {
-  top: 0;
-  font-size: 0.875rem;
-  background-color: #fff;
+  top: -1rem;
+  left: 0;
+  font-size: 1rem;
 }
