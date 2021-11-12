@@ -51,4 +51,5 @@ input:focus + span {
   top: -1rem;
   left: 0;
   font-size: 1rem;
+  color: #000;
 }
